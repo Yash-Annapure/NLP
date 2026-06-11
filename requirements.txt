@@ -1,0 +1,7 @@
+langchain==0.3.7
+langchain-core==0.3.15
+langchain-community==0.3.2
+langgraph==0.2.20
+wikipedia
+transformers
+torch
